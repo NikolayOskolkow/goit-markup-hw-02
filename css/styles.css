@@ -1,0 +1,36 @@
+:root {
+  --item-point: none;
+  --title-color: #212121;
+  --decoration-none: none;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+/*  ---------      HEADER   ---------    */
+.logo span {
+  text-decoration: var(--decoration-none);
+  font-family: Raleway;
+  font-weight: 700px;
+  font-size: 26px;
+  line-height: 1.19;
+  letter-spacing: 0.03em;
+  color: #000000;
+  text-decoration: var(--decoration-none);
+}
+
+.logo {
+  text-decoration: var(--decoration-none);
+  font-family: Raleway;
+  font-weight: 700px;
+  font-size: 26px;
+  line-height: 1.19;
+  letter-spacing: 0.03em;
+  color: #2196f3;
+}
+
+.nav-list {
+  text-decoration: var(--decoration-none);
+  list-style: var(--item-point);
+}
