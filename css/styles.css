@@ -129,6 +129,10 @@ h1 {
 }
 
 /* ------------------our_team----------------- */
+.our-team {
+  background-color: #e5e5e5;
+}
+
 .team {
   font-weight: 700;
   font-size: 36px;
@@ -154,9 +158,6 @@ h1 {
 }
 
 /* ------------------portfolio--------------------- */
-.portfolio {
-  background-color: #e5e5e5;
-}
 
 .button-filtres {
   font-weight: 500;
